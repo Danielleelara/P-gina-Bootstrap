@@ -1,1 +1,1 @@
-const amor = 'a';
+const amor = 'Eugênio';
