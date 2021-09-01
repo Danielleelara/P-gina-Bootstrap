@@ -1,16 +1,17 @@
 .imagem-carrossel-um {
     object-fit: cover;
-    object-position: 0 70%;
-    width: 400px;
-    height: 500PX;
+    object-position: 0 80%;
+    height: 400PX;
 
 }
 .imagem-carrossel-dois {
     object-fit: cover;
-    width: 400px;
-    height: 500PX;
+    height: 400PX;
 }
 .fonte-titulo {
     font-family: "Pacifico", cursive;
 
+}
+.cor-especial {
+    color: darkred;
 }
