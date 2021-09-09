@@ -12,6 +12,17 @@
     font-family: "Pacifico", cursive;
 
 }
-.cor-especial {
+.texto-cor-especial {
     color: darkred;
 }
+.botão-cor-especial {
+    background-color: darkred;
+    color: white; 
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+
+
