@@ -19,7 +19,7 @@
 }
 
 .texto-cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
 .botão-cor-especial {
