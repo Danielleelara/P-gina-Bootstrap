@@ -1,1 +1,1 @@
-Página criada, baseada no curso de Bootstrap da Alura.
+Página criada, com base no curso de Bootstrap da Alura.
